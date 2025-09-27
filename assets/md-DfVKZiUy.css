@@ -1,0 +1,1 @@
+h4[id^=pros i]+ul[data-v-76812f97],h4[id^=cons i]+ul[data-v-76812f97]{list-style:none;padding-left:1em;margin:0}h4[id^=pros i]+ul li[data-v-76812f97]{position:relative}h4[id^=pros i]+ul li[data-v-76812f97]:before{content:"✅";position:absolute}h4[id^=cons i]+ul li[data-v-76812f97]{position:relative}h4[id^=cons i]+ul li[data-v-76812f97]:before{content:"⛔";position:absolute}
